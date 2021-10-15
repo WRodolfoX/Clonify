@@ -9,6 +9,6 @@ Clonify é uma plataforma de música streaming fictícia.
     Totalmente Mobile Responsive.
   </li>
   <li>
-    Frameworks: Bootstrap, jQuery, Font Awesome e Popper
+    Frameworks: Bootstrap
   </li>
  </ul>
